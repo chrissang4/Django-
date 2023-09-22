@@ -1,0 +1,35 @@
+div#row {
+          width: 60%;height: 400px;
+          margin-left: auto;
+          margin-right:auto ;
+        } 
+        
+        label {
+            display: block;
+            font: 1rem 'Fira Sans', sans-serif;
+        }
+        
+        input,
+        label {
+            margin: .4rem 0;
+        }
+
+.navbar {
+    background-color: #158a15;
+}
+
+p {
+    text-align:center;
+    flex:"arial";
+    color:"white";
+    font-size: 6;
+
+
+
+}
+
+h2 {
+    text-align:center;
+    background-color: #158a15;
+}
+        
